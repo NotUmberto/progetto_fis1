@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="w4WxLoDgUSWJhVAIIs8P" name="Page-1">
+        <mxGraphModel dx="1258" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+                    <mxGeometry height="570" width="940" x="140" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp;Inserisci la tua email&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="40" width="260" x="740" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;align=left;" value="&amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 13px;&quot;&gt;Inserisci la tua password&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="40" width="260" x="740" y="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Courier New&quot;&gt;Email:&lt;/font&gt;&lt;/b&gt;" vertex="1">
+                    <mxGeometry height="30" width="260" x="740" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot; face=&quot;Courier New&quot;&gt;Password:&lt;/font&gt;&lt;/b&gt;" vertex="1">
+                    <mxGeometry height="30" width="260" x="740" y="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font style=&quot;font-size: 30px;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;ACCEDI&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="50" width="260" x="740" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;accedi altrimenti con:&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="60" width="260" x="740" y="520" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;b style=&quot;color: rgb(255, 255, 255);&quot;&gt;F&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="60" width="60" x="760" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;&lt;b style=&quot;color: rgb(51, 51, 255);&quot;&gt;G&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="60" width="60" x="890" y="590" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Facebook&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="760" y="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Google&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="60" x="890" y="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+                    <mxGeometry height="570" width="540" x="140" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 44px;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;Login Utente&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="230" width="280" x="260" y="370" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 44px;&quot; face=&quot;Courier New&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;u&gt;StreamEveryThing&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="130" width="540" x="140" y="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="j2xWHSKWKeuTo_dFH7mu-22" edge="1" parent="1" style="endArrow=none;html=1;entryX=0.995;entryY=0.994;entryDx=0;entryDy=0;rounded=1;curved=0;entryPerimeter=0;opacity=50;" target="j2xWHSKWKeuTo_dFH7mu-20" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="140" y="290" as="sourcePoint"/>
+                        <mxPoint x="190" y="240" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
