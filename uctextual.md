@@ -1,3 +1,5 @@
+![alt text](ucdiagram.png)
+
 # Caso d'Uso: Sfogliare Catalogo
 ## Breve Descrizione: 
 Permette agli utenti di visualizzare i film e le serie TV presenti sulla piattaforma.
