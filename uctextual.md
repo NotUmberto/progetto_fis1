@@ -12,8 +12,7 @@ Nessuna.
 2. Viene mostrato a schermo l'elenco dei contenuti presenti sulla piattaforma.
 3. Per ciascun contenuto viene mostrata:
     - il titolo;
-    - la copertina;
-    - la descrizione.
+    - la copertina.
 4. L'utente seleziona un contenuto cliccando sulla copertina.
 5. Vengono mostrate tutte le informazioni sul contenuto, compreso la disponibilita relativa all'abbonamento dell'utente.
 6. Se l'utente puo visualizzare il contenuto allora e presente un pulsante "Visualizza", colegato allo use case relativo (`VisualizzaBase` o `VisualizzaPremium`).
