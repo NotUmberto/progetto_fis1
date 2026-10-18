@@ -28,17 +28,17 @@ Il catalogo o le informazioni di dettaglio del contenuto selezionato sono visual
 
 ## Sequenza degli eventi alternativa: 
 
-### A1. Catalogo vuoto
-1. Il sistema verifica che non sono presenti contenuti nel catalogo.
-2. Il sistema mostra un messaggio a schermo informando l'utente che il catalogo è momentaneamente vuoto.
+### 2a. Catalogo vuoto
+2a1. Il sistema verifica che non sono presenti contenuti nel catalogo.
+2a2. Il sistema mostra un messaggio a schermo informando l'utente che il catalogo è momentaneamente vuoto.
 
-### A2. Errore nel caricamento
-1. Il sistema non riesce a recuperare i dati dei contenuti dal server.
-2. Il sistema mostra un messaggio di errore e consente all'utente di ritentare il caricamento.
+### 2b. Errore nel caricamento
+2b1. Il sistema non riesce a recuperare i dati dei contenuti dal server.
+2b2. Il sistema mostra un messaggio di errore e consente all'utente di ritentare il caricamento.
 
-### A3. Contenuto non fruibile con il profilo corrente
-1. Al passo 4, l'utente seleziona un contenuto che richiede un abbonamento di livello superiore (es. contenuto Premium selezionato da utente Base) oppure l'utente non è autenticato.
-2. Il sistema mostra i dettagli del contenuto informando l'utente che è necessario effettuare l'upgrade dell'abbonamento o eseguire il login per avviare la riproduzione.
+### 5a. Contenuto non fruibile con il profilo corrente
+5a1. Al passo 4, l'utente seleziona un contenuto che richiede un abbonamento di livello superiore (es. contenuto Premium selezionato da utente Base) oppure l'utente non è autenticato.
+5a2. Il sistema mostra i dettagli del contenuto informando l'utente che è necessario effettuare l'upgrade dell'abbonamento o eseguire il login per avviare la riproduzione.
 
 ---
 
@@ -71,18 +71,18 @@ L'utente ha effettuato con successo il login e la sua sessione di lavoro risulta
 
 ## Sequenza degli eventi alternativa: 
 
-### A1. Accesso tramite Google
-1. Al passo 3, l'utente seleziona l'accesso rapido cliccando sul pulsante Google.
-2. Il sistema reindirizza l'utente al servizio di autenticazione esterno di Google.
-3. Google convalida l'identità dell'utente e restituisce l'esito positivo al sistema.
-4. Il sistema autentica l'utente e il flusso prosegue dal passo 5 del flusso principale.
+### 3a. Accesso tramite Google
+3a1. Al passo 3, l'utente seleziona l'accesso rapido cliccando sul pulsante Google.
+3a2. Il sistema reindirizza l'utente al servizio di autenticazione esterno di Google.
+3a3. Google convalida l'identità dell'utente e restituisce l'esito positivo al sistema.
+3a4. Il sistema autentica l'utente e il flusso prosegue dal passo 5 del flusso principale.
 
-### A2. Accesso tramite Facebook
-1. Al passo 3, l'utente seleziona l'accesso rapido cliccando sul pulsante Facebook.
-2. Il sistema reindirizza l'utente al servizio di autenticazione esterno di Facebook.
-3. Facebook convalida l'identità dell'utente e restituisce l'esito positivo al sistema.
-4. Il sistema autentica l'utente e il flusso prosegue dal passo 5 del flusso principale.
+### 3b. Accesso tramite Facebook
+3b1. Al passo 3, l'utente seleziona l'accesso rapido cliccando sul pulsante Facebook.
+3b2. Il sistema reindirizza l'utente al servizio di autenticazione esterno di Facebook.
+3b3. Facebook convalida l'identità dell'utente e restituisce l'esito positivo al sistema.
+3b4. Il sistema autentica l'utente e il flusso prosegue dal passo 5 del flusso principale.
 
-### A3. Credenziali non valide
-1. Al passo 4, il sistema rileva che l'indirizzo email o la password inseriti non sono corretti.
-2. Il sistema mostra un messaggio di errore a schermo e invita l'utente a reinserire le credenziali corrette senza abbandonare la pagina di login.
+### 5a. Credenziali non valide
+5a1. Al passo 4, il sistema rileva che l'indirizzo email o la password inseriti non sono corretti.
+5a2. Il sistema mostra un messaggio di errore a schermo e invita l'utente a reinserire le credenziali corrette senza abbandonare la pagina di login.
